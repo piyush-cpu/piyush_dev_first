@@ -20,6 +20,17 @@ public class RestApiTest
 		System.out.println("dvzd");
 		Assert.assertTrue(true);
 	}
+	
+	
+	/*@Test
+	public void Ass()
+	{
+		System.out.println("dvzd");
+		Assert.assertTrue(true);
+	}
+	*/
+	
+	
 
 	
 	@Test
