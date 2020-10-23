@@ -1,9 +1,5 @@
-package restapi_test.rest_api_test;
+package job_api;
 
-/**
- * Hello world!
- *
- */
 public class App 
 {
     public static void main( String[] args )
