@@ -15,7 +15,7 @@ public class RestApiTest
 
 {
 	@Test
-	public void Ass()
+	public void Ass() kmk
 	{
 		System.out.println("dvzd");
 		Assert.assertTrue(true);
